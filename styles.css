@@ -1,0 +1,20 @@
+body {
+    /*color de fondo a la etiqueta*/
+    background-color: blueviolet;
+}
+
+
+p {
+    /*VINCULACION EXTERNA*/
+color: red;
+}
+
+
+#parrafo-1 {
+    background-color: white;
+    color: aqua;
+}
+
+.parrafo-2 {
+    color: aqua;
+}
